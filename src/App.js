@@ -10,7 +10,6 @@ function App() {
 
     const [awayTeamScore, setAwayScore] = useState(0);
 
-    console.log(awayTeamScore)
   return (
     <div className="container">
       <section className="scoreboard">
